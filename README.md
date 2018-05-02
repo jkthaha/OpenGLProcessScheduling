@@ -8,6 +8,6 @@ The algorithms included are,
 
 To execute the program download the main.cpp file.
 then,
-$g++ main.cpp -lGL -lGLU -lglut
-$./a.out
+$g++ main.cpp -lGL -lGLU -lglut #to Compile
+$./a.out #to run
 
