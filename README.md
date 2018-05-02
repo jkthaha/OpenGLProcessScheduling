@@ -1,4 +1,4 @@
-# OpenGLProcessScheduling
+# OpenGL project, Process Scheduling
 CG project
 This repository contains opengl program for simulation of process scheduling algorithms
 The algorithms included are,
@@ -8,6 +8,7 @@ The algorithms included are,
 
 To execute the program download the main.cpp file.
 then,
-$g++ main.cpp -lGL -lGLU -lglut #to Compile
-$./a.out #to run
+$g++ main.cpp -lGL -lGLU -lglut 
+
+$./a.out
 
